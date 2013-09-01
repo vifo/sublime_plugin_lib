@@ -1,6 +1,6 @@
 # sublime_plugin_lib
 
-Python package providing additional functionality useful in [Sublime Text 2][ST2] as well as [Sublime Text 2][ST3] plug-in development.
+Python package providing additional functionality useful in [Sublime Text 2][ST2] as well as [Sublime Text 3][ST3] plug-in development.
 
 Right now, there's nothing to see here, since this package has not been officially released yet. The curious and brave can have a peek at the [devel][devel_branch] branch containing alpha quality code.
 
