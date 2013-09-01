@@ -6,4 +6,4 @@ Right now, there's nothing to see here, since this package has not been official
 
 [ST2]: http://sublimetext.com/2
 [ST3]: http://sublimetext.com/3
-[devel_branch]: https://github.com/vifo/sublime_plugin_lib/devel
+[devel_branch]: https://github.com/vifo/sublime_plugin_lib/tree/devel
